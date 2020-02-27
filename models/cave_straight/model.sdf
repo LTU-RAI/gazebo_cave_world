@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <model name="cave_straight">
+    <static>true</static>
+    <link name="base_link">
+      <collision name="collision">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>model://cave_straight/meshes/cave_straight.dae</uri>
+            <scale>1.0 1.0 1.0</scale>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="CaveWall_visual">
+        <geometry>
+          <mesh>
+            <uri>model://cave_straight/meshes/cave_straight.dae</uri>
+            <submesh>
+              <name>CaveWall</name>
+              <center>false</center>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0</diffuse>
+          <specular>1.0 1.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://cave_straight/materials/textures/CaveWall_Albedo.png</albedo_map>
+              <normal_map>model://cave_straight/materials/textures/CaveWall_Normal.png</normal_map>
+              <roughness_map>model://cave_straight/materials/textures/CaveWall_Roughness.png</roughness_map>
+            </metal>
+          </pbr>
+          <!-- fallback to script if no PBR support-->
+          <script>
+            <uri>model://cave_straight/materials/scripts/</uri>
+            <uri>model://cave_straight/materials/textures/</uri>
+            <name>CaveTile/CaveWall_Diffuse</name>
+          </script>
+        </material>
+      </visual>
+      <visual name="RockPile_visual">
+        <geometry>
+          <mesh>
+            <uri>model://cave_straight/meshes/cave_straight.dae</uri>
+            <submesh>
+              <name>RockPile</name>
+              <center>false</center>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0</diffuse>
+          <specular>1.0 1.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://cave_straight/materials/textures/RockPile_Albedo.png</albedo_map>
+              <normal_map>model://cave_straight/materials/textures/RockPile_Normal.png</normal_map>
+              <roughness_map>model://cave_straight/materials/textures/RockPile_Roughness.png</roughness_map>
+            </metal>
+          </pbr>
+          <!-- fallback to script if no PBR support-->
+          <script>
+            <uri>model://cave_straight/materials/scripts/</uri>
+            <uri>model://cave_straight/materials/textures/</uri>
+            <name>CaveTile/RockPile_Diffuse</name>
+          </script>
+        </material>
+      </visual>
+      <visual name="StriatedRock_visual">
+        <geometry>
+          <mesh>
+            <uri>model://cave_straight/meshes/cave_straight.dae</uri>
+            <submesh>
+              <name>StriatedRock</name>
+              <center>false</center>
+            </submesh>
+          </mesh>
+        </geometry>
+        <material>
+          <diffuse>1.0 1.0 1.0</diffuse>
+          <specular>1.0 1.0 1.0</specular>
+          <pbr>
+            <metal>
+              <albedo_map>model://cave_straight/materials/textures/StriatedRock_Albedo.png</albedo_map>
+              <normal_map>model://cave_straight/materials/textures/StriatedRock_Normal.png</normal_map>
+              <roughness_map>model://cave_straight/materials/textures/StriatedRock_Roughness.png</roughness_map>
+            </metal>
+          </pbr>
+          <!-- fallback to script if no PBR support-->
+          <script>
+            <uri>model://cave_straight/materials/scripts/</uri>
+            <uri>model://cave_straight/materials/textures/</uri>
+            <name>CaveTile/StriatedRock_Diffuse</name>
+          </script>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
