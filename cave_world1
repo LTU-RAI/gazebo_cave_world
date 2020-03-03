@@ -418,43 +418,6 @@
       </link>
       <pose frame=''>-25.8995 38.8792 0 0 -0 0</pose>
     </model>
-    <model name='cave_tile_ramp'>
-      <static>1</static>
-      <link name='link'>
-        <pose frame=''>0 0 0 1.5708 -0 0</pose>
-        <collision name='collision'>
-          <geometry>
-            <mesh>
-              <uri>model://cave_tile_ramp/meshes/cave_tile_ramp.obj</uri>
-            </mesh>
-          </geometry>
-          <max_contacts>10</max_contacts>
-          <surface>
-            <contact>
-              <ode/>
-            </contact>
-            <bounce/>
-            <friction>
-              <torsional>
-                <ode/>
-              </torsional>
-              <ode/>
-            </friction>
-          </surface>
-        </collision>
-        <visual name='visual'>
-          <geometry>
-            <mesh>
-              <uri>model://cave_tile_ramp/meshes/cave_tile_ramp.obj</uri>
-            </mesh>
-          </geometry>
-        </visual>
-        <self_collide>0</self_collide>
-        <enable_wind>0</enable_wind>
-        <kinematic>0</kinematic>
-      </link>
-      <pose frame=''>-50.5372 4.13818 0 0 -0 0</pose>
-    </model>
     <model name='cave_tile_6_0'>
       <static>1</static>
       <link name='link'>
@@ -1122,10 +1085,10 @@
       <pose frame=''>2.17606 19.0697 0 0 -0 0</pose>
     </model>
     <state world_name='default'>
-      <sim_time>1619 107000000</sim_time>
-      <real_time>1623 817117933</real_time>
-      <wall_time>1582725127 968304754</wall_time>
-      <iterations>1619107</iterations>
+      <sim_time>1806 314000000</sim_time>
+      <real_time>63 883528775</real_time>
+      <wall_time>1583246499 630524411</wall_time>
+      <iterations>63775</iterations>
       <model name='cave_tile_1'>
         <pose frame=''>-45.5612 19.0483 0 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -1197,10 +1160,10 @@
         </link>
       </model>
       <model name='cave_tile_6_1'>
-        <pose frame=''>-65.4873 0.396232 9.86803 0 -0 0</pose>
+        <pose frame=''>-65.7772 0.285176 9.86803 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-65.4873 0.396232 9.86803 1.5708 -0 0</pose>
+          <pose frame=''>-65.7772 0.285176 9.86803 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1267,30 +1230,30 @@
         </link>
       </model>
       <model name='cave_tile_blocker_10'>
-        <pose frame=''>-65.3299 -8.53717 10.7108 0 -0 0</pose>
+        <pose frame=''>-65.5306 -8.70949 10.7108 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-65.3299 -8.53717 10.7108 1.5708 -0 0</pose>
+          <pose frame=''>-65.5306 -8.70949 10.7108 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='cave_tile_blocker_11'>
-        <pose frame=''>-65.6244 8.15963 9.44585 0 -0 0</pose>
+        <pose frame=''>-65.8316 9.19709 9.44585 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-65.6244 8.15963 9.44585 1.5708 -0 0</pose>
+          <pose frame=''>-65.8316 9.19709 9.44585 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='cave_tile_blocker_12'>
-        <pose frame=''>-73.9716 0.039347 10.1453 0 -0 0</pose>
+        <pose frame=''>-74.3196 0.330684 10.1453 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-73.9716 0.039347 10.1453 1.5708 -0 0</pose>
+          <pose frame=''>-74.3196 0.330684 10.1453 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1367,30 +1330,30 @@
         </link>
       </model>
       <model name='cave_tile_blocker_8'>
-        <pose frame=''>-47.82 12.0453 0 0 -0 0</pose>
+        <pose frame=''>-45.5486 10.3688 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-47.82 12.0453 0 1.5708 -0 0</pose>
+          <pose frame=''>-45.5486 10.3688 0 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
       <model name='cave_tile_blocker_9'>
-        <pose frame=''>-55.4613 19.2696 0 0 -0 0</pose>
+        <pose frame=''>-55.4613 19.038 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-55.4613 19.2696 0 1.5708 -0 0</pose>
+          <pose frame=''>-55.4613 19.038 0 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
-      <model name='cave_tile_ramp'>
-        <pose frame=''>-45.7381 0.065408 0 0 -0 1.537</pose>
+      <model name='cave_tile_ramp2'>
+        <pose frame=''>-45.9135 0.011894 0 0 -0 1.54208</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-45.7381 0.065408 0 1.5708 -0 1.537</pose>
+          <pose frame=''>-45.9135 0.011894 0 1.5708 -0 1.54208</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -1422,10 +1385,47 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>85.2347 -45.231 63.2968 0 0.433796 2.6152</pose>
+        <pose frame=''>43.9519 -28.5602 108.973 -0 0.913797 2.548</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
     </gui>
+    <model name='cave_tile_ramp2'>
+      <static>1</static>
+      <link name='link'>
+        <pose frame=''>0 0 0 1.5708 -0 0</pose>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://cave_tile_ramp2/meshes/cave_tile_ramp2.obj</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://cave_tile_ramp2/meshes/cave_tile_ramp2.obj</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>-45.7565 -2.9634 0 0 -0 0</pose>
+    </model>
   </world>
 </sdf>
