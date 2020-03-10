@@ -5,4 +5,4 @@ cp -a models/. ~/.gazebo/models
 
 Load world:
 
-gazebo cave_world*
+gazebo cave_world
