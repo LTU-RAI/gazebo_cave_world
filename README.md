@@ -1,4 +1,4 @@
-# gazebo_worlds_caves
+# cave world
 Copy gazebo models:
 
 cp -a models/. ~/.gazebo/models
