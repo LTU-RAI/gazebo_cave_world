@@ -86,10 +86,10 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>6043 617000000</sim_time>
-      <real_time>170 546892600</real_time>
-      <wall_time>1583832854 463259839</wall_time>
-      <iterations>167801</iterations>
+      <sim_time>6167 346000000</sim_time>
+      <real_time>123 909109111</real_time>
+      <wall_time>1583833578 45557594</wall_time>
+      <iterations>123729</iterations>
       <model name='Apriltag36_11_00014'>
         <pose frame=''>4.01 -24 1.99921 0 1.57 0</pose>
         <scale>1 1 1</scale>
@@ -186,7 +186,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>114.245 -51.5747 57.5226 0 0.293901 2.74727</pose>
+        <pose frame=''>106.772 -53.133 55.9337 0 0.425901 2.74727</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
