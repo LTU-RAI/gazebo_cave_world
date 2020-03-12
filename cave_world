@@ -86,10 +86,10 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>198 321000000</sim_time>
-      <real_time>180 479923100</real_time>
-      <wall_time>1584003197 847484416</wall_time>
-      <iterations>178707</iterations>
+      <sim_time>255 969000000</sim_time>
+      <real_time>57 793192078</real_time>
+      <wall_time>1584009418 783924899</wall_time>
+      <iterations>57648</iterations>
       <model name='Apriltag36_11_00014'>
         <pose frame=''>4.01 -24 1.99921 0 1.57 0</pose>
         <scale>1 1 1</scale>
@@ -121,10 +121,10 @@
         </link>
       </model>
       <model name='cave_world'>
-        <pose frame=''>6.04402 -21.2842 0 0 -0 0</pose>
+        <pose frame=''>6.43376 -21.2842 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>6.04402 -21.2842 0 1.5708 -0 0</pose>
+          <pose frame=''>6.43376 -21.2842 0 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -156,7 +156,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>71.8566 -28.2227 46.9157 0 0.517797 2.844</pose>
+        <pose frame=''>72.4395 -11.3414 12.9841 0 0.333797 2.968</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
