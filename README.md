@@ -1,8 +1,4 @@
 # Cave world
-Copy gazebo models:
-
-cp -a models/. ~/.gazebo/models
-
 Load world:
 
-gazebo cave_world
+roslaunch gazebo_cave_world cave_world.launch
