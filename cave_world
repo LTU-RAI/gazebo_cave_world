@@ -38,10 +38,10 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>4807 45000000</sim_time>
-      <real_time>606 676807039</real_time>
-      <wall_time>1584015085 815549342</wall_time>
-      <iterations>603476</iterations>
+      <sim_time>5072 308000000</sim_time>
+      <real_time>265 725172846</real_time>
+      <wall_time>1584015716 863647188</wall_time>
+      <iterations>265263</iterations>
       <model name='Apriltag36_11_00014'>
         <pose frame=''>4.01 -24 1.99921 0 1.57 0</pose>
         <scale>1 1 1</scale>
@@ -362,6 +362,26 @@
           <wrench>0 0 0 0 -0 0</wrench>
         </link>
       </model>
+      <model name='survivor_7'>
+        <pose frame=''>-64.9775 41.7477 18.1268 0 -0 1.45</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>-64.9775 41.7477 17.5028 0 -0 1.45</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
+      <model name='survivor_8'>
+        <pose frame=''>-68.1664 47.7047 1.03856 0 -0 1.75</pose>
+        <scale>1 1 1</scale>
+        <link name='link'>
+          <pose frame=''>-68.1664 47.7047 0.414564 0 -0 1.75</pose>
+          <velocity>0 0 0 0 -0 0</velocity>
+          <acceleration>0 0 0 0 -0 0</acceleration>
+          <wrench>0 0 0 0 -0 0</wrench>
+        </link>
+      </model>
       <model name='tunnel_entrance'>
         <pose frame=''>3.33102 -20.573 0 0 -0 1.57208</pose>
         <scale>1 1 1</scale>
@@ -378,7 +398,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>-61.4789 38.9398 61.5515 0 1.4788 -0.048</pose>
+        <pose frame=''>92.2303 -50.2394 102.518 0 0.708 2.7256</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -1545,6 +1565,80 @@
         <kinematic>0</kinematic>
       </link>
       <pose frame=''>-43.8524 54.5825 0 0 -0 0</pose>
+    </model>
+    <model name='survivor_7'>
+      <static>1</static>
+      <link name='link'>
+        <pose frame=''>0 0 -0.623996 0 -0 0</pose>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://survivor/meshes/rescue_randy.dae</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://survivor/meshes/rescue_randy.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>-60.3876 42.7975 0 0 -0 0</pose>
+    </model>
+    <model name='survivor_8'>
+      <static>1</static>
+      <link name='link'>
+        <pose frame=''>0 0 -0.623996 0 -0 0</pose>
+        <collision name='collision'>
+          <geometry>
+            <mesh>
+              <uri>model://survivor/meshes/rescue_randy.dae</uri>
+            </mesh>
+          </geometry>
+          <max_contacts>10</max_contacts>
+          <surface>
+            <contact>
+              <ode/>
+            </contact>
+            <bounce/>
+            <friction>
+              <torsional>
+                <ode/>
+              </torsional>
+              <ode/>
+            </friction>
+          </surface>
+        </collision>
+        <visual name='visual'>
+          <geometry>
+            <mesh>
+              <uri>model://survivor/meshes/rescue_randy.dae</uri>
+            </mesh>
+          </geometry>
+        </visual>
+        <self_collide>0</self_collide>
+        <enable_wind>0</enable_wind>
+        <kinematic>0</kinematic>
+      </link>
+      <pose frame=''>-67.1424 47.8188 0 0 -0 0</pose>
     </model>
   </world>
 </sdf>
