@@ -38,10 +38,10 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>5072 308000000</sim_time>
-      <real_time>265 725172846</real_time>
-      <wall_time>1584015716 863647188</wall_time>
-      <iterations>265263</iterations>
+      <sim_time>5853 426000000</sim_time>
+      <real_time>65 957977669</real_time>
+      <wall_time>1584464706 852613496</wall_time>
+      <iterations>65847</iterations>
       <model name='Apriltag36_11_00014'>
         <pose frame=''>4.01 -24 1.99921 0 1.57 0</pose>
         <scale>1 1 1</scale>
@@ -113,10 +113,10 @@
         </link>
       </model>
       <model name='backpack_3'>
-        <pose frame=''>-66.9652 -12.4039 -2.51633 0 0.07111 -3.09874</pose>
+        <pose frame=''>-66.7448 -12.3944 -3.2873 -1e-06 0.071109 -3.09874</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-66.9652 -12.4039 -2.51633 0 0.07111 -3.09874</pose>
+          <pose frame=''>-66.7448 -12.3944 -3.2873 -1e-06 0.071109 -3.09874</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -373,10 +373,10 @@
         </link>
       </model>
       <model name='survivor_8'>
-        <pose frame=''>-68.1664 47.7047 1.03856 0 -0 1.75</pose>
+        <pose frame=''>-68.5983 47.8488 0.513332 0 -0 1.75</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>-68.1664 47.7047 0.414564 0 -0 1.75</pose>
+          <pose frame=''>-68.5983 47.8488 -0.110664 0 -0 1.75</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -398,7 +398,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>92.2303 -50.2394 102.518 0 0.708 2.7256</pose>
+        <pose frame=''>97.3984 -83.7106 63.5529 -0 0.326795 2.58001</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
