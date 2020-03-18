@@ -139,7 +139,39 @@ Tf 1.00 1.00 1.00
 Ni 1.50
 Ks 0.00 0.00 0.00
 Ns 10.00
-newmtl cave_f_1_1:cave_tile_start2:Cave_Walls
+newmtl cave_f_1_2:cave_tile_start:Cave_Ground
+illum 4
+Kd 0.27 0.20 0.16
+Ka 0.27 0.20 0.16
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl cave_f_1_2:cave_tile_start:Cave_Walls
+illum 4
+Kd 0.13 0.09 0.07
+Ka 0.13 0.09 0.07
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl cave_f_1_2:cave_tile_start1:Cave_Ground
+illum 4
+Kd 0.27 0.20 0.16
+Ka 0.27 0.20 0.16
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl cave_f_1_2:cave_tile_start1:Cave_Walls
+illum 4
+Kd 0.13 0.09 0.07
+Ka 0.13 0.09 0.07
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl cave_f_1_2:cave_tile_start2:Cave_Walls
 illum 4
 Kd 0.13 0.09 0.07
 Ka 0.13 0.09 0.07
@@ -368,6 +400,12 @@ Tf 1.00 1.00 1.00
 Ni 1.50
 Ks 0.00 0.00 0.00
 Ns 10.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
 newmtl scene1_2_3:cave_tile_6:Cave_Ground
 illum 4
 Kd 0.27 0.20 0.16
