@@ -15,8 +15,7 @@ Cave environment using both DARPA provided[1,2] tiles and custom made 3D models 
 * External dimensions (height x width x length): 33 x 102 x 150 [meters]
 
 ## Preview
-
-![example](https://i.imgur.com/dn9dqBX.png)
+![example](https://i.imgur.com/T4VOFeV.png)
 
 
 ## Installation
