@@ -41,6 +41,7 @@ MIT License
 
 ## Citing
 
+```
 @misc{akoval2020,
   author = {A. Koval, G. Nikolakopoulos},
   title = {Cave world},
@@ -50,7 +51,7 @@ MIT License
   doi={10.5281/zenodo.3718459},
   url={http://doi.org/10.5281/zenodo.3718459}
 }
-
+```
 
 ## References
 
