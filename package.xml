@@ -9,6 +9,11 @@
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <license>MIT</license>
+  
+  <url type="website">https://github.com/LTU-CEG/gazebo_cave_world</url>
+  <url type="bugtracker">https://github.com/LTU-CEG/gazebo_cave_world/issues</url>
+
+  <author email="koval.anton@gmail.com">Anton Koval</author>
 
   <buildtool_depend>catkin</buildtool_depend>
 
