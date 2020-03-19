@@ -43,7 +43,7 @@ MIT License
 
 ```
 @misc{akoval2020,
-  author = {A. Koval, G. Nikolakopoulos},
+  author = {Koval, Anton and Nikolakopoulos, George},
   title = {Cave world},
   year = {2020},
   publisher = {GitHub},
