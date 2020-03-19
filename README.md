@@ -35,6 +35,9 @@ roslaunch gazebo_cave_world cave_world.launch
 
 To add models copy them to ~/worlds/models folder inside the package.
 
+## Licence
+
+MIT License
 
 ## References
 
