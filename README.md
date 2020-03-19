@@ -39,6 +39,19 @@ To add models copy them to ~/worlds/models folder inside the package.
 
 MIT License
 
+## Citing
+
+@misc{akoval2020,
+  author = {A. Koval, G. Nikolakopoulos},
+  title = {Cave world},
+  year = {2020},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/LTU-CEG/gazebo_cave_world}},
+  doi={10.5281/zenodo.3718459},
+  url={http://doi.org/10.5281/zenodo.3718459}
+}
+
+
 ## References
 
 [1] https://subtchallenge.world/openrobotics
