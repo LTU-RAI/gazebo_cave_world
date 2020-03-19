@@ -3,7 +3,7 @@ Cave world
 
 ## Description
 
-Cave environment using both DARPA provided[1,2] tiles and custom made 3D models with the following features:
+Cave environment is made by using both DARPA provided tiles [1,2] and custom made 3D models with the following features:
 
 * Large void areas
 * Vertical shafts
@@ -11,7 +11,7 @@ Cave environment using both DARPA provided[1,2] tiles and custom made 3D models 
 * Foldable drone evaluation area
 * Areas with stalactites and stalagmites
 * Artifacts (backpack, extinguisher and survivor). Ten artifacts of each type are randomly placed in the world. Use existing ones or your own.
-* Specification document with artifacts and their positions
+* Specification document with artifacts and their positions (artifacts_positions.md)
 * External dimensions (height x width x length): 33 x 102 x 150 [meters]
 
 ## Preview
