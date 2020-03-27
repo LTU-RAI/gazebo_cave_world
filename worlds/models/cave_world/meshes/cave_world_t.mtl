@@ -1,0 +1,467 @@
+newmtl CaveCavernSplit_01:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCavernSplit_01:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCavernSplit_01:StriatedSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCavernSplit_02:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCavernSplit_02:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCavernSplit_02:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_01:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_01:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_01:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_02:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_02:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_02:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_30:CaveWall004SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl CaveCorner_30F:CaveWall004SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Elevation:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Elevation:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Elevation:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Starting_Area:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Starting_Area:GrassSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd Grass_Albedo.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Starting_Area:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Starting_Area:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_01:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_01:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_01:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_02:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_02:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_02:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_03:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_03:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_03:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_04:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_04:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_04:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_05:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_05:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Straight_05:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Vertical_Shaft:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Vertical_Shaft:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Cave_Vertical_Shaft:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way1:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way1:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way1:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way2:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way2:CaveWallSG2
+illum 4
+Kd 0.80 0.80 0.80
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way2:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave3way2:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave_cap:CaveWallSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd CaveWall_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave_cap:RockPileSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd RockPile_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl cave_cap:StriatedRockSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+map_Kd StriatedRock_Albedo.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
