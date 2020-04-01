@@ -3,7 +3,7 @@
 
   # Gazebo world.
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
-    <arg name="world_name" value="$(find gazebo_cave_world)/worlds/cave_world.world"/>
+    <arg name="world_name" value="$(find gazebo_subt_world)/worlds/subt_world.world"/>
     <arg name="paused" value="false"/>
     <arg name="use_sim_time" value="true"/>
     <arg name="gui" value="true"/>

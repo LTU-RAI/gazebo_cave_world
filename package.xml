@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>gazebo_cave_world</name>
+  <name>gazebo_subt_world</name>
   <version>1.0.0</version>
   <description>Cave environment is made by using both DARPA provided tiles and custom made 3D models</description>
 

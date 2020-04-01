@@ -1,20 +1,21 @@
 <?xml version="1.0" ?>
 <sdf version="1.6">
-  <model name="cave_world">
+  <model name="cave_world_t">
     <static>true</static>
     <link name="link">
       <pose>0 0 0 1.570796 0 0</pose>
       <collision name="collision">
         <geometry>
           <mesh>
-            <uri>model://cave_world/meshes/cave_world.obj</uri>
+            <uri>model://cave_world_t/meshes/cave_world_t.obj</uri>
           </mesh>
         </geometry>
       </collision>
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://cave_world/meshes/cave_world.obj</uri>
+            <uri>model://cave_world_t/meshes/cave_world_t.obj</uri>
+			<scale>0.01 0.01 0.01</scale>
           </mesh>
         </geometry>
       </visual>
