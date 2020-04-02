@@ -86,15 +86,15 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <state world_name='default'>
-      <sim_time>291 287000000</sim_time>
-      <real_time>278 230395544</real_time>
-      <wall_time>1585810518 88593369</wall_time>
-      <iterations>272849</iterations>
+      <sim_time>320 50000000</sim_time>
+      <real_time>29 764790341</real_time>
+      <wall_time>1585825504 646937006</wall_time>
+      <iterations>28763</iterations>
       <model name='cave_world_t'>
-        <pose frame=''>17.208 114.813 0 0 -0 0</pose>
+        <pose frame=''>-9.60479 116.864 0 0 -0 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose frame=''>17.208 114.813 0 1.5708 -0 0</pose>
+          <pose frame=''>-9.60479 116.864 0 1.5708 -0 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 0 0 -0 0</acceleration>
           <wrench>0 0 0 0 -0 0</wrench>
@@ -116,7 +116,7 @@
     </state>
     <gui fullscreen='0'>
       <camera name='user_camera'>
-        <pose frame=''>-230.728 -57.7257 265.287 0 0.743643 0.852197</pose>
+        <pose frame=''>-233.35 -60.823 267.76 0 0.743643 0.852197</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
       </camera>
@@ -129,6 +129,7 @@
           <geometry>
             <mesh>
               <uri>model://cave_world_t/meshes/cave_world_t.obj</uri>
+              <scale>0.01 0.01 0.01</scale>
             </mesh>
           </geometry>
           <max_contacts>10</max_contacts>
@@ -157,7 +158,7 @@
         <enable_wind>0</enable_wind>
         <kinematic>0</kinematic>
       </link>
-      <pose frame=''>17.208 114.813 0 0 -0 0</pose>
+      <pose frame=''>-9.60479 116.864 0 0 -0 0</pose>
     </model>
   </world>
 </sdf>
