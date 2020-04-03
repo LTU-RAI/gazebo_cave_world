@@ -1,4 +1,4 @@
-Subt world
+SubT world
 =============
 
 ## Description
