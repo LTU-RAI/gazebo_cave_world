@@ -7,12 +7,11 @@ Cave environment is made by using both DARPA provided tiles [1,2] and custom mad
 
 * Large void areas
 * Vertical shafts
-* Gate with apriltags
-* Foldable drone evaluation area
+* ~~Gate with apriltags~~
 * Areas with stalactites and stalagmites
-* Artifacts (backpack, extinguisher and survivor). Ten artifacts of each type are randomly placed in the world. Use existing ones or your own.
-* Specification document with artifacts and their positions (artifacts_positions.md)
-* External dimensions (height x width x length): 33 x 102 x 150 [meters]
+* ~~Artifacts (backpack, extinguisher and survivor). Ten artifacts of each type are randomly placed in the world. Use existing ones or your own~~.
+* ~~Specification document with artifacts and their positions (artifacts_positions.md)~~
+* External dimensions (height x width x length): ~~33 x 102 x 150~~ [meters]
 
 ## Preview
 ![example](https://i.imgur.com/gjRyZ4X.png)
