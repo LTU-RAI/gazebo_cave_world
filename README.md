@@ -22,10 +22,9 @@ Cave environment is made by using both DARPA provided tiles [1,2] and custom mad
 
 Clone the package into your catkin workspace:
 ```
-git clone 
 git clone -b subt_cave https://github.com/LTU-CEG/gazebo_cave_world.git gazebo_subt_world
-
 ```
+
 Use `catkin_make` on your workspace to compile, or `catkin build` if you are using catkin_tools.
 
 ## Usage
