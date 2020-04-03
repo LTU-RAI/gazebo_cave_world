@@ -15,7 +15,7 @@ Cave environment is made by using both DARPA provided tiles [1,2] and custom mad
 * External dimensions (height x width x length): 33 x 102 x 150 [meters]
 
 ## Preview
-![example](https://i.imgur.com/9Fqomqs.png)
+![example](https://i.imgur.com/gjRyZ4X.png)
 
 
 ## Installation
