@@ -1,4 +1,4 @@
-Cave world
+Subt world
 =============
 
 ## Description
@@ -22,7 +22,9 @@ Cave environment is made by using both DARPA provided tiles [1,2] and custom mad
 
 Clone the package into your catkin workspace:
 ```
-git clone https://github.com/LTU-CEG/gazebo_cave_world.git
+git clone 
+git clone -b subt_cave https://github.com/LTU-CEG/gazebo_cave_world.git gazebo_subt_world
+
 ```
 Use `catkin_make` on your workspace to compile, or `catkin build` if you are using catkin_tools.
 
@@ -30,7 +32,7 @@ Use `catkin_make` on your workspace to compile, or `catkin build` if you are usi
 
 To load cave world use:
 ```
-roslaunch gazebo_cave_world cave_world.launch
+roslaunch gazebo_subt_world subt_world.launch
 ```
 
 To add models copy them to ~/worlds/models folder inside the package.
