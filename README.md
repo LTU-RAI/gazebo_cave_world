@@ -43,13 +43,12 @@ MIT License
 
 ```
 @misc{akoval2020,
-  author = {Koval, Anton and Nikolakopoulos, George},
-  title = {Cave world},
-  year = {2020},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/LTU-CEG/gazebo_cave_world}},
-  doi={10.5281/zenodo.3718459},
-  url={http://doi.org/10.5281/zenodo.3718459}
+ author = {Anton Koval and Christoforos Kanellakis and Emil Vidmark and
+ Jakub Haluska and George Nikolakopoulos},
+ title = {A Subterranean Virtual Cave World for Gazebobased on the DARPA SubT Challenge},
+ year = {2020},
+ publisher = {arXiv},
+ howpublished = {\url{http://arxiv.org/abs/2004.08452}}
 }
 ```
 
